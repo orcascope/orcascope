@@ -10,21 +10,36 @@ I work with clients to build and deliver what matters most to their line of busi
 *   ✉️  You can contact me at [orcascope@gmail.com](mailto:orcascope@gmail.com)
 *   🧠  I'm currently learning Nvidia - Agent Dev Kit
 *   👥  I'm looking to collaborate on Fine Tuning, Agentic AI
+
+### Skills
+
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-                  </p>
-                  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
+</p>
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/orcascope" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/orcascope" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Socials
 
-### Badges
+<p align="left">
+<a href="https://www.github.com/orcascope" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a>
+<a href="https://www.linkedin.com/in/orcascope" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a>
+</p>
 
-<b>Top Repositories</b>
+### Featured work
 
-<div width="100%" align="center"><a href="https://github.com/orcascope/pdf_rag_gcloud " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=pdf_rag_gcloud &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/orcascope/products_restapi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=products_restapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**[pdf_rag_gcloud](https://github.com/orcascope/pdf_rag_gcloud)** — Document Q&A over a bucket of PDFs, served as a FastAPI endpoint. BigQuery-native: Document AI OCRs the PDFs from SQL through a remote model, chunks are embedded with Vertex `text-embedding-005` and stored as `ARRAY<FLOAT64>`, and answers are generated by Gemini grounded in the retrieved chunks.
 
-<br /><br /><br /><br /><br />
+**[products_restapi](https://github.com/orcascope/products_restapi)** — TODO: one line on what it does and the interesting decision behind it.
 
-<div width="100%" align="center"><a href="https://github.com/orcascope/tpch100_db" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=tpch100_db&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+**[tpch100_db](https://github.com/orcascope/tpch100_db)** — TODO: one line on scale, engine, and what you measured.
+
+<p align="center">
+<a href="https://github.com/orcascope/pdf_rag_gcloud"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=pdf_rag_gcloud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="pdf_rag_gcloud" /></a>
+<a href="https://github.com/orcascope/products_restapi"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=products_restapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="products_restapi" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/orcascope/tpch100_db"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=tpch100_db&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="tpch100_db" /></a>
+</p>
