@@ -43,3 +43,13 @@ I work with clients to build and deliver what matters most to their line of busi
 <p align="center">
 <a href="https://github.com/orcascope/tpch100_db"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=tpch100_db&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="tpch100_db" /></a>
 </p>
+
+## Writing
+
+I write about data platform trade-offs and architecture decisions for real-world deployments:
+
+- **[Migrating Azure Synapse into Databricks]** — How can we easily migrate the synapse/adf pipelines into Databricks workflows with the power of LLMs
+  → [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7396966646743003136/)
+
+- **[A look at the Performance of Databricks Job Clusters using TPCH-100]** — Yet another benchmarking that helped me understand more about TPCH and Databricks
+  → [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391928758498185217/)
