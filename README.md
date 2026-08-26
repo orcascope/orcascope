@@ -48,8 +48,8 @@ I work with clients to build and deliver what matters most to their line of busi
 
 I write about data platform trade-offs and architecture decisions for real-world deployments:
 
-- **[Migrating Azure Synapse into Databricks]** — How can we easily migrate the synapse/adf pipelines into Databricks workflows with the power of LLMs
-  → [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7396966646743003136/)
+- **Migrating Azure Synapse into Databricks** — How can we easily migrate the synapse/adf pipelines into Databricks workflows with the power of LLMs
+  → Read on LinkedIn(https://www.linkedin.com/feed/update/urn:li:activity:7396966646743003136/)
 
-- **[A look at the Performance of Databricks Job Clusters using TPCH-100]** — Yet another benchmarking that helped me understand more about TPCH and Databricks
-  → [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391928758498185217/)
+- **A look at the Performance of Databricks Job Clusters using various compute engines]** — Yet another benchmarking that helped me understand more about Duckdb and Databricks Job clusters
+  → Read on LinkedIn(https://www.linkedin.com/feed/update/urn:li:activity:7391928758498185217/)
