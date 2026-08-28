@@ -39,7 +39,7 @@ I work with clients to build and deliver what matters most to their line of busi
 
 **[Products_REST API](https://github.com/orcascope/products_restapi)** — A production grade RestAPI implementation in python FastAPI with JWT auth.
 
-**[Benchmarking Databricks](https://github.com/orcascope/tpch100_db)** — The databricks cost study I performed over the tpch100-H dataset and queries.
+**[Benchmarking Databricks](https://github.com/orcascope/tpch100_db)** — The databricks vs DuckDB cost study I did over the tpch100-H dataset and queries.
 
 <p align="center">
 <a href="https://github.com/orcascope/pdf_rag_gcloud"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=orcascope&repo=pdf_rag_gcloud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="pdf_rag_gcloud" /></a>
